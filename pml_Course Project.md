@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: "Practical Machine Learning - Course Project"
 author: "AS"
@@ -7,7 +7,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Background
